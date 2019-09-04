@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/6. 類別的基本結構/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7. 類別的其他功能/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8. 繼承/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. 抽象類別、介面與類別庫/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/out" />
     </content>
     <orderEntry type="inheritedJdk" />
